@@ -1,0 +1,16 @@
+PODS:
+  - QLPodText (0.1.0)
+
+DEPENDENCIES:
+  - QLPodText (from `../`)
+
+EXTERNAL SOURCES:
+  QLPodText:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QLPodText: 75e4c1edd1dfe759394bd57c2248afcb29a97922
+
+PODFILE CHECKSUM: 4e9766ccb67a8197fa618dc5d0c55306a6bd64c4
+
+COCOAPODS: 1.8.4

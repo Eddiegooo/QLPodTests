@@ -1,0 +1,22 @@
+{
+  "name": "QLPodText",
+  "version": "0.1.0",
+  "summary": "A short description of QLPodText.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Eddiegooo/QLPodText",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Eddiegooo": "fanqinglong@globalegrow.com"
+  },
+  "source": {
+    "git": "https://github.com/Eddiegooo/QLPodText.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "QLPodText/Classes/**/*"
+}
