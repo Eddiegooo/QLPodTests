@@ -1,6 +1,0 @@
-framework module Pods_QLPodText_Example {
-  umbrella header "Pods-QLPodText_Example-umbrella.h"
-
-  export *
-  module * { export * }
-}
